@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face{ 
+	font-family: "MiaJukićDM";
+	src: url("mm/MIAJUKICBRACULJ.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: normal;
+	
+}
+p {
+	color:mediumvioletred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-style: 16px;
+	line-height: 20px;
+	width: 640px;
+	background-color: lightskyblue;
+	padding: 25px;
+}
+body {font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+            padding: 20px;
+	        background-image: url("mm/ -11.jpg");
+	        background-size: cover;
+	        background-repeat: no-repeat;
+	        background-position: center;
+}
+h1{
+	color: chartreuse;
+	font-family: MiaJukićDM, 'serif';
+    font-size: 50px;
+	margin-bottom: 12px;
+}
+
+h2{
+    font-size: 35px;
+	margin-bottom: 10px;
+}
+
+ .stranica1 h1{
+	font-size: 30px;
+
+}
+  .stranica1 h2{
+	  font-size: 30px;
+}
+
+.stranica1 h3{
+	  font-size: 30px;
+}
+
+.stranica1 h4{
+	  font-size: 30px;
+}
+
+.stranica1 h5{
+	  font-size: 30px;
+}
+
